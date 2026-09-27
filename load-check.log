@@ -1,0 +1,5 @@
+redactSecrets(test api key) => "key [REDACTED] end"
+redactSecrets ordinary text => "My name is Suraj."
+Storage keys present in conversationStorage: 0
+clearAllChatSessions exported: undefined
+clear-all CSS class used anywhere in src: true
